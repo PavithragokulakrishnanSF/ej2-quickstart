@@ -11,8 +11,7 @@ The ej2-quickstart repository is designed to help developers quickly understand 
 ## Prerequisites
 To work with this application, you need:
 - A supported web browser
-- Syncfusion JavaScript (ES5) control resources
-
+  
 ## Version Information
 This application is configured with Syncfusion JavaScript control resources version **20.4.38**.
 
