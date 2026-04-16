@@ -1,12 +1,6 @@
 # Syncfusion JavaScript (ES5) Quickstart Application
 
-## Repository Description
-This repository contains a quickstart HTML application that demonstrates the Syncfusion JavaScript (ES5) Grid control in a simple web environment.
-
-## Project Overview
-The ej2-quickstart repository is intended to help developers quickly understand how to use Syncfusion JavaScript (ES5) UI controls without relying on modern frameworks or build tools. The sample focuses on rendering the Syncfusion Grid control using standard HTML and JavaScript, making it easy to explore the basics of control initialization, configuration, and rendering.
-
-This quickstart application is useful for developers who prefer a lightweight setup or want to learn how Syncfusion ES5 controls work in a plain HTML application.
+The ej2-quickstart repository is designed to help developers quickly understand how to work with Syncfusion JavaScript (ES5) UI controls in a plain web application environment. This sample intentionally avoids modern frameworks, build tools, or transpilers, allowing developers to focus purely on how Syncfusion controls are initialized, configured, and rendered using standard HTML and JavaScript.
 
 ## Features
 - Demonstrates the Syncfusion JavaScript (ES5) Grid control
@@ -17,7 +11,6 @@ This quickstart application is useful for developers who prefer a lightweight se
 ## Prerequisites
 To work with this application, you need:
 - A supported web browser
-- Basic knowledge of HTML and JavaScript
 - Syncfusion JavaScript (ES5) control resources
 
 ## Version Information
@@ -28,9 +21,3 @@ This application is configured with Syncfusion JavaScript control resources vers
 2. Navigate to the **`CDN/quickstart`** directory.
 3. Open the **`index.html`** file in a web browser.
 4. The page will render the Syncfusion JavaScript (ES5) Grid control.
-
-## Usage
-You can modify the `index.html` file to explore different Grid configurations and understand how the Syncfusion JavaScript (ES5) Grid behaves with various settings.
-
-## Additional Resources
-For more details and advanced scenarios, refer to the official Syncfusion getting started documentation for JavaScript (ES5) controls.
